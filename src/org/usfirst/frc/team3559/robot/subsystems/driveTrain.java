@@ -2,9 +2,7 @@ package org.usfirst.frc.team3559.robot.subsystems;
 
 import org.usfirst.frc.team3559.robot.RobotMap;
 import org.usfirst.frc.team3559.robot.commands.driveWithJoysticks;
-
 import edu.wpi.first.wpilibj.command.Subsystem;
-import edu.wpi.first.wpilibj.Talon;
 import edu.wpi.first.wpilibj.RobotDrive;
 
 /**
